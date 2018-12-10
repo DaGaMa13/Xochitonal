@@ -15,7 +15,7 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 -[DEVELOP]:: En esta rama se guardarán los archivos que se están desarrollando y probando, los cuales pueden contener algunos errores ya sea de programación y lógica, los cuales serán revisados e implmentados para poder ser aprobados y guardados en la rama MASTER.
 
-- (Extras) :: (Este es una rama que está tentativamente a proponer, la cual tiene como objetivo el alamcenar algunos comportamientos que si bien no se encuentran entre los comportamientos y funcionabildades deseadas, se crearon bajo ciertas circunstancias y cumplen con los requisitos de calidad )
+-(Extras) :: (Este es una rama que está tentativamente a proponer, la cual tiene como objetivo el alamcenar algunos comportamientos que si bien no se encuentran entre los comportamientos y funcionabildades deseadas, se crearon bajo ciertas circunstancias y cumplen con los requisitos de calidad )
 
 => CONTENIDO DEL REPOSITORIO
 
@@ -23,7 +23,7 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 -Smart things [SmartThings_files] :: En esta carpeta se encuentra todo el software necesario para el uso del módulo Smart Things para la tarjeta arduino UNO. Así como el código original del nodo para ROS con el que se comenzó a implementar este módulo.
 
-- Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
+-Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
 
 >>Actualización 8 de Diciembre del 2018
 
