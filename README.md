@@ -15,8 +15,6 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 - [DEVELOP]:: En esta rama se guardarán los archivos que se están desarrollando y probando, los cuales pueden contener algunos errores ya sea de programación y lógica, los cuales serán revisados e implmentados para poder ser aprobados y guardados en la rama MASTER.
 
-- (Extras) :: (Este es una rama que está tentativamente a proponer, la cual tiene como objetivo el alamcenar algunos comportamientos que si bien no se encuentran entre los comportamientos y funcionabildades deseadas, se crearon bajo ciertas circunstancias y cumplen con los requisitos de calidad )
-
 => CONTENIDO DEL REPOSITORIO
 
 - Workspace [catkin_ws] :: En esta carpeta se encuentra almacenada todo el software desarrollado hasta la fecha, el cual debe ser implementado en la tarjeta Raspberry Pi que se encuentra integrada al robot.
