@@ -19,11 +19,11 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 => CONTENIDO DEL REPOSITORIO
 
--Workspace [catkin_ws] :: En esta carpeta se encuentra almacenada todo el software desarrollado hasta la fecha, el cual debe ser implementado en la tarjeta Raspberry Pi que se encuentra integrada al robot.
+- Workspace [catkin_ws] :: En esta carpeta se encuentra almacenada todo el software desarrollado hasta la fecha, el cual debe ser implementado en la tarjeta Raspberry Pi que se encuentra integrada al robot.
 
--Smart things [SmartThings_files] :: En esta carpeta se encuentra todo el software necesario para el uso del módulo Smart Things para la tarjeta arduino UNO. Así como el código original del nodo para ROS con el que se comenzó a implementar este módulo.
+- Smart things [SmartThings_files] :: En esta carpeta se encuentra todo el software necesario para el uso del módulo Smart Things para la tarjeta arduino UNO. Así como el código original del nodo para ROS con el que se comenzó a implementar este módulo.
 
--Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
+- Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
 
 >>Actualización 8 de Diciembre del 2018
 
