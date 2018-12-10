@@ -23,9 +23,3 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 - Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
 
->>Actualización 8 de Diciembre del 2018
-
-  >> -Se agregó el Documento/Manual donde se describe el proyecto y sus componentes, tanto en hardware como en Hardware.
-  >> -Se agregó el Fichero comprimido del workspace que se encuentra en la Raspberry Pi. 
-  >> -Se agregán el fichero comprimido que contiene todos los archivos originales para el uso del shield de Smarthings para el Arduino UNO.
-
