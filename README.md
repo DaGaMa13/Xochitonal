@@ -25,3 +25,4 @@ Actualmente el proyecto cuenta con un robot móvil de seis ruedas cuyas caracter
 
 - Documentacion [Manual_Usuario_Xochitonal] :: Esta documentación describe el desarrolloo del robot, así como una rápida introducción a cada uno de los componentes disponibles y una serie de instrucciones para la instalación del software necesario. 
 
+
